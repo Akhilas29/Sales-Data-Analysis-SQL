@@ -1,2 +1,3 @@
-# Sales-Data-Analysis-SQL
-Built an interactive Pizza Sales Dashboard using Excel and SQL to analyze 10,000+ transactions, uncover revenue trends, and identify top-performing products for data-driven decision-making.
+# 🍕 Pizza Sales Data Analysis (Interactive Dashboard using MS Excel)
+## 🎯 Project Objective
+To analyze pizza sales data and build an interactive Excel dashboard that provides insights into revenue performance, customer ordering behavior, product trends, and category-wise sales contribution to support data-driven decision-making.
