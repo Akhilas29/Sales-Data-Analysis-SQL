@@ -50,8 +50,3 @@ Dashboard Development
 
 ## ✅ Final Conclusion
 The analysis revealed clear revenue-driving segments, peak sales periods, and product performance trends. Large-size pizzas and the Classic category are key contributors to overall revenue. Weekend demand significantly impacts total sales. These insights can help optimize inventory planning, marketing strategies, and operational efficiency.
-
-
-Added slicers for dynamic filtering
-
-Created charts for trend analysis and performance comparison
